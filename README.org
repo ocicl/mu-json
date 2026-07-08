@@ -4,6 +4,6 @@ A simple library that implements a parser for JSON objects described by RFC8259.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://codeberg.org/cage/mu-json.git                 |
-| commit  | aa9f678                                                    |
+| commit  | a527d72                                                    |
 | systems | mu-json                                                   |
 |---------+------------------------------------------------------------|
